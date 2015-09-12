@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"git.kyleisom.net/server/cmdwatch/fsnotify"
+	"gopkg.in/fsnotify.v1"
 )
 
 var (
